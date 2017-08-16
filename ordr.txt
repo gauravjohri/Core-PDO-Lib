@@ -1,1 +1,2 @@
 https://wisdmlabs.com/blog/woocommerce-order-management-system-integration/
+https://woocommerce.github.io/woocommerce-rest-api-docs/?php#create-an-order
